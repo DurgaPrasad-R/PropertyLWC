@@ -15,6 +15,7 @@ This repository contains the source code for the Real Estate CRM system built fo
 - Access Control with LWC: Lightning Web Component (LWC) provides verified and non-verified customers with access to the appropriate listings.
 
 ## Links
+- Jotform Link: https://form.jotform.com/242992145526058
 - Youtube Link for Demonstration: https://youtu.be/ciCi2wzlR7g
 - Documentation: <a href="https://github.com/DurgaPrasad-R/PropertyLWC/blob/main/Documentation.pdf">Documentation</a>
 
