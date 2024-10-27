@@ -16,6 +16,7 @@ This repository contains the source code for the Real Estate CRM system built fo
 
 ## Links
 - Youtube Link for Demonstration: https://youtu.be/ciCi2wzlR7g
+- Documentation: <a href="https://github.com/DurgaPrasad-R/PropertyLWC/blob/main/Documentation.pdf">Documentation</a>
 
 # Salesforce DX Project: Next Steps
 
