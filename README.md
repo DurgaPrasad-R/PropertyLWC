@@ -1,4 +1,4 @@
-# Real Estate CRM System - Dreams World Properties
+# A CRM Application to Handle the Clients and their property Related Requirements
 
 This repository contains the source code for the Real Estate CRM system built for Dreams World Properties, leveraging Salesforce to manage clients, track property interactions, and streamline customer engagement.
 
